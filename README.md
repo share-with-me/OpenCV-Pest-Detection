@@ -1,2 +1,2 @@
 # OpenCV-Pest-Detection
-Pest Detection in plants
+Image processing using openCV for Pest Detection in plants
